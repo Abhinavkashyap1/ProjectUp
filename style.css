@@ -94,12 +94,12 @@ background: linear-gradient(135deg, #5317D3, #443D39);
 
 
 /*  background-color: blueviolet;-----------------Page 2------------- */
-.page2{
+.Services{
     height: 700px;
     width: 1518px;
     background-image: linear-gradient(45deg, transparent 0%, transparent 46%,rgba(114, 114, 114,0.06) 46%, rgba(114, 114, 114,0.06) 70%,transparent 70%, transparent 100%),linear-gradient(135deg, transparent 0%, transparent 59%,rgba(114, 114, 114,0.06) 59%, rgba(114, 114, 114,0.06) 91%,transparent 91%, transparent 100%),linear-gradient(0deg, transparent 0%, transparent 15%,rgba(114, 114, 114,0.06) 15%, rgba(114, 114, 114,0.06) 40%,transparent 40%, transparent 100%),linear-gradient(90deg, rgb(0,0,0),rgb(0,0,0));
 }
-.page2 .title{
+.Services .title{
     font-size: 60px;
     margin-left: 650px;
     margin-top: 60px;
