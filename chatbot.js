@@ -14,7 +14,7 @@ function sendMessage() {
     setTimeout(function() {
         var botMessage = document.createElement("div");
         botMessage.classList.add("chat-message", "bot");
-        botMessage.textContent = "Welcome to the ProjectUp!I'm a Adwait ,How may i help you ? ";
+        botMessage.textContent = "Welcome to the ProjectUp! I'm a Adwait How may i help you ? ";
         chatBox.appendChild(botMessage);
         chatBox.scrollTop = chatBox.scrollHeight; // Scroll to bottom
     }, 500);
